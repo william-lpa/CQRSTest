@@ -1,0 +1,6 @@
+c:\users\willi\documents\visual studio 2015\Projects\CQRSTest\CQRSTest\bin\Debug\CQRSTest.exe.config
+c:\users\willi\documents\visual studio 2015\Projects\CQRSTest\CQRSTest\bin\Debug\CQRSTest.exe
+c:\users\willi\documents\visual studio 2015\Projects\CQRSTest\CQRSTest\bin\Debug\CQRSTest.pdb
+c:\users\willi\documents\visual studio 2015\Projects\CQRSTest\CQRSTest\obj\Debug\CQRSTest.csprojResolveAssemblyReference.cache
+c:\users\willi\documents\visual studio 2015\Projects\CQRSTest\CQRSTest\obj\Debug\CQRSTest.exe
+c:\users\willi\documents\visual studio 2015\Projects\CQRSTest\CQRSTest\obj\Debug\CQRSTest.pdb
